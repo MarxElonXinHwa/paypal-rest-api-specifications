@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "name": "執行指令碼: preview",
+            "request": "launch",
+            "command": "npm run preview",
+            "cwd": "${workspaceFolder}"
+        }
+
+}
